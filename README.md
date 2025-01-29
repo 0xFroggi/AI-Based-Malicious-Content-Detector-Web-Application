@@ -27,7 +27,8 @@ ThreatSense is an advanced web application designed to classify and detect phish
 - Kaggle: Malicious URLs dataset
 - Hugging Face: Email phishing datasets
 
-![Dataset Preview](https://placeholder.url/dataset-preview)
+![Dataset Preview](https://github.com/0xFroggi/AI-Based-Malicious-Content-Detector-Web-Application/blob/main/images/dataset1.png)
+![Dataset Preview2](https://github.com/0xFroggi/AI-Based-Malicious-Content-Detector-Web-Application/blob/main/images/dataset2.png)
 
 Challenges:
 - Access to high-quality phishing data was limited.
